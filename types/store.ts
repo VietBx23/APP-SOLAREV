@@ -1,0 +1,6 @@
+export enum TYPE_STORE {
+  AUTHEN = "authen",
+  PASSWORD = "password",
+  SAVE_CHARGING = "SAVE_CHARGING",
+  CHARGING_TRANSACTION = "CHARGING_TRANSACTION",
+}
